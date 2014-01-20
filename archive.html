@@ -1,13 +1,7 @@
 ---
 layout: base
-title: Archive - Matt Biggin
+title: Archive - ultraflynn
 ---
-<ol class="breadcrumb">
-  <li><a href="/"><span class="label label-default">Home</span></a></li>
-  <li><a href="/blog/"><span class="label label-default">Blog</span></a></li>
-  <li class="active"><span class="label label-info">Archive</span></li>
-</ol>
-
 {% for post in site.posts %}
     {% capture postmonth %}{{ post.date | date: "%B" }}{% endcapture %}
     {% capture postyear %}{{ post.date | date: "%Y" }}{% endcapture %}

@@ -1,12 +1,7 @@
 ---
 layout: base
-title: Blog - Matt Biggin
+title: ultraflynn
 ---
-<ol class="breadcrumb">
-  <li><a href="/"><span class="label label-default">Home</span></a></li>
-  <li class="active"><span class="label label-info">Blog</span></li>
-</ol>
-
 <div class="row">
   <div class="col-xs-8">
     {% for post in site.posts limit:1 %}
@@ -22,6 +17,13 @@ title: Blog - Matt Biggin
     {% endfor %}
   </div>
   <div class="col-xs-4">
+    <h4>Categories <small><a href="/categories/">see them all</a></small></h4>
+    <p>
+      {% for category in site.categories %}
+        <a href="/categories/#{{ category[0] }}">{{ category[1] }}</a>
+      {% endfor %}
+    </p>
+    <br/>
     <h4>Tag Cloud <small><a href="/tags/">see them all</a></small></h4>
     <p>
       {% for tag in site.tags %}

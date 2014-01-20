@@ -1,0 +1,11 @@
+---
+layout: base
+title: Categories - ultraflynn
+---
+{% for category in site.categories %}
+<a name="{{ category[0] }}"></a>
+<span class="badge">{{ category[0] }}</span>
+  {% for post in category[1] %}
+<li><a href="{{ post.url | remove:'.html' }}">{{ post.title }}</a> ({{ post.date | date_to_string }})</li>
+  {% endfor %}
+{% endfor %}
