@@ -1,0 +1,12 @@
+---
+layout: base
+---
+<h4>{{ page.title }}</h4>
+<p class="post-meta">{{ page.date | date_to_string }}
+{% for tag in page.tags %}
+<a href="/tags/#{{ tag }}"><span class="badge">{{ tag }}</span></a>
+{% endfor %}
+</p>
+<div class="post">
+{{ content }}
+</div>

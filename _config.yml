@@ -1,0 +1,5 @@
+name:        Ultraflynn
+markdown:    redcarpet
+pygments:    false
+permalink:   pretty
+safe:        true

@@ -1,0 +1,17 @@
+---
+layout: base
+title: Tags - Matt Biggin
+---
+<ol class="breadcrumb">
+  <li><a href="/"><span class="label label-default">Home</span></a></li>
+  <li><a href="/blog/"><span class="label label-default">Blog</span></a></li>
+  <li class="active"><span class="label label-info">Tags</span></li>
+</ol>
+
+{% for tag in site.tags %}
+<a name="{{ tag[0] }}"></a>
+<span class="badge">{{ tag[0] }}</span>
+  {% for post in tag[1] %}
+<li><a href="{{ post.url | remove:'.html' }}">{{ post.title }}</a> ({{ post.date | date_to_string }})</li>
+  {% endfor %}
+{% endfor %}
