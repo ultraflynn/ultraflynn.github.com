@@ -17,13 +17,6 @@ title: ultraflynn
     {% endfor %}
   </div>
   <div class="col-xs-4">
-    <h4>Categories <small><a href="/categories/">see them all</a></small></h4>
-    <p>
-      {% for category in site.categories %}
-        <a href="/categories/#{{ category[0] }}">{{ category[1] }}</a>
-      {% endfor %}
-    </p>
-    <br/>
     <h4>Tag Cloud <small><a href="/tags/">see them all</a></small></h4>
     <p>
       {% for tag in site.tags %}

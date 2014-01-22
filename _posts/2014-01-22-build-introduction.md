@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Introduction to my PC build
-categories: [Modding]
-tags: [PC]
-synopsis: I'm in the planning stages of building a PC. This wont be just a collection of parts, for the first time I'm going to do some case modding and put a water cooling loop in.
+tags: [Modding, Plans]
 ---
 I've built some PCs before but those projects have really been a case of buying the right parts and bolting them together. My current build is going to be a little different though. I want to learn some new skills and produce something practically and hopefully cool.
 
@@ -14,7 +12,7 @@ The parts going into this build are all recycled from old PCs so don't expect th
 * Corsair CX600M PSU
 * 4GB Corsair EMS memory
 
-All this is currently in another enclosure and running Windows 7. Once this new case is ready the components will be transferred into it.
+All this is currently in another enclosure and running Windows 7. Once this new case is ready the components will be transferred into it. The only new component I might invest in would be a better GPU because the one that's in there are the moment is fairly rubbish.
 
 Here's the general plan:
 
@@ -25,7 +23,7 @@ The major work on this build will be based around modding the case. At the very 
 Once the case mods are completed I'm going to fully disassemble the case and respray inside and out. At the moment I don't know what colour but that decision will be base on the theme that I pick. I'll have to wait until later on in the year when the weather improves though, as it's too cold for painting currently.
 
 #### Watercooling
-One of the critical components of the build is the addition of a CPU watercooling loop. I may build in enough capacity to cool a CPU or 2 also but in this initial iteration only the CPU is required. This isn't a gaming PC and the current GPU isn't worth cooling. I havn't decided on whether to go for a bayres or tubular reservoir yet. That decision will have to wait until I've decided on a theme. It will also depend on the theme because watercooling can be quite dramatic if done in keeping with the rest of the case. I'm not building a stealth watercooling rig, this is going to be fairly in your face.
+One of the critical components of the build is the addition of a CPU watercooling loop. I may build in enough capacity to cool a CPU or 2 also but in this initial iteration only the CPU is required. This isn't a gaming PC (I have a Corsair Air 540 surrounding my gaming rig - such a nice bit of kit) and the current GPU isn't worth cooling. I havn't decided on whether to go for a bayres or tubular reservoir yet. That decision will have to wait until I've decided on a theme. It will also depend on the theme because watercooling can be quite dramatic if done in keeping with the rest of the case. I'm not building a stealth watercooling rig, this is going to be fairly in your face.
 
 Another thing I'm keen to put in is hard acrylic pipework. I don't like tubes very much and I like the clean lines of hard pipes. I might avoid the current trend of 90 degree bends and see whether I can come up with something more creative.
 
