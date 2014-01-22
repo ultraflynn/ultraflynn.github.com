@@ -8,7 +8,7 @@ I've built some PCs before but those projects have really been a case of buying 
 The parts going into this build are all recycled from old PCs so don't expect the latest and greatest hardware. The focus of the project is the case mods. Here's the basic parts going into the build:
 
 * Intel i5-760
-* Asus Pxxx Deluxe
+* Asus P7P55D Deluxe
 * Corsair CX600M PSU
 * 4GB Corsair EMS memory
 
