@@ -8,6 +8,15 @@ title: ultraflynn
       <div id="container">
         <div class="entry-content">
           <h3 class="clear">
+            {% for category in post.categories %}
+              {% if category == 'pc' %}
+                <span class="label label-primary"><i class="fa fa-wrench"></i></span>
+              {% elsif category == 'gaming' %}
+                <span class="label label-warning"><i class="fa fa-gamepad"></i></span>
+              {% elsif category == 'running' %}
+                <span class="label label-success"><i class="fa fa-trophy"></i></span>
+              {% endif %}
+            {% endfor %}
             <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
             <br/>
             <small>{{ post.date | date_to_long_string }}</small>
