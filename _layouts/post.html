@@ -1,12 +1,14 @@
 ---
 layout: base
 ---
-<h4>{{ page.title }}</h4>
-<p class="post-meta">{{ page.date | date_to_string }}
-{% for tag in page.tags %}
-<a href="/tags/#{{ tag }}"><span class="badge">{{ tag }}</span></a>
-{% endfor %}
-</p>
+<h3 class="clear">
+  <a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a>
+  <br/>
+  <small>{{ page.date | date_to_long_string }}</small>
+  {% for tag in page.tags %}
+    <a href="/tags/#{{ tag }}"><span class="badge">{{ tag }}</span></a>
+  {% endfor %}
+</h3>
 <div class="post">
 {{ content }}
 </div>

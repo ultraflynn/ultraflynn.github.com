@@ -9,7 +9,11 @@ title: ultraflynn
         <div class="entry-content">
           <h3 class="clear">
             <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            <br/>
             <small>{{ post.date | date_to_long_string }}</small>
+            {% for tag in post.tags %}
+              <a href="/tags/#{{ tag }}"><span class="badge">{{ tag }}</span></a>
+            {% endfor %}
           </h3>
           {{ post.content }}
         </div>

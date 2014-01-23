@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction to my PC build
+category: PC
 tags: [Modding, Plans]
 ---
 I've built some PCs before but those projects have really been a case of buying the right parts and bolting them together. My current build is going to be a little different though. I want to learn some new skills and produce something practically and hopefully cool.
