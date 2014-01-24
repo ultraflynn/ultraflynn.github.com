@@ -39,18 +39,23 @@ title: ultraflynn
     <br/>
     <h4>Latest Posts <small><a href="/archive/">see them all</a></small></h4>
     <p>
-      <table class="table">
-        {% for post in site.posts limit:10 %}
-        <tr>
-          <td><small>{{ post.date | date_to_string }}</small></td>
-          <td>
-            <a href="{{ post.url }}" title="{{ post.title }}"> 
-              <div>{{ post.title }}</div>
-            </a>
-          </td>
-        </tr>
+      {% for post in site.posts limit:10 %}
+      <div>
+        <small>{{ post.date | date_to_string }}</small>
+        {% for category in post.categories %}
+          {% if category == 'pc' %}
+            <span class="label label-primary"><i class="fa fa-wrench"></i></span>
+          {% elsif category == 'gaming' %}
+            <span class="label label-warning"><i class="fa fa-gamepad"></i></span>
+          {% elsif category == 'running' %}
+            <span class="label label-success"><i class="fa fa-trophy"></i></span>
+          {% endif %}
         {% endfor %}
-      </table>
+        <a href="{{ post.url }}" title="{{ post.title }}"> 
+          <div>{{ post.title }}</div>
+        </a>
+      </div>
+      {% endfor %}
     </p>
   </div>
 </div>
