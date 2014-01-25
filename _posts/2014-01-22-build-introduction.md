@@ -3,6 +3,7 @@ layout: post
 title: Introduction to my PC build
 categories: [pc]
 tags: [Corsair, Asus, Intel]
+synopsis: I've built some PCs before but those projects have really been a case of buying the right parts and bolting them together. My current build is going to be a little different though. I want to learn some new skills and produce something practically and hopefully cool.
 ---
 I've built some PCs before but those projects have really been a case of buying the right parts and bolting them together. My current build is going to be a little different though. I want to learn some new skills and produce something practically and hopefully cool.
 

@@ -1,8 +1,16 @@
 ---
 layout: base
-title:  ultraflynn | Archive
+title:  ultraflynn | PC Modding
 ---
 
 {% for post in site.categories.pc %}
-  {% include post_snippet.html %}
+  <div class="table-responsive">
+    <table class="table">
+      <tr>
+        <td>
+          {% include summary.html %}
+        </td>
+      </tr>
+    </table>
+  </div>
 {% endfor %}

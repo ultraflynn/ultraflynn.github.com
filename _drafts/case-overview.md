@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Overview for the case before modding
-tags: [Modding, Plans]
+categories: [pc]
+tags: [Coolermaster]
+synopsis: The case that I'm modifying dates from 2007 and was built by Coolermaster. I believe it's an Elite case of some kind and I've done a lot of research to determine exactly what type but I can't identify it. Before I start on the build I thought I'd photograph the initial state.
 ---
-
 [picture of all the parts I currently have for case]
 
 This case dates from 2007 when I bought it new. Originally it housed a Q6600 gaming rig which at the time rocked. Time moved on though and I wasn't much into keeping it upgraded so I stopped being able to play the latest games on it. I still used it though for internet browsing and work so it never really sat idle.
