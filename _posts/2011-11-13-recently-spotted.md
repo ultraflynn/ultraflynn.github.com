@@ -2,7 +2,6 @@
 layout: post
 title: Recently spotted
 categories: [running]
-tags: [Barefoot]
 synopsis: Recently spotted
 ---
 ![Slow! Small Children and Other Animals](/running/images/2011-11-13-recently-spotted.jpg)
