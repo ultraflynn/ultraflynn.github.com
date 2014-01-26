@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 2011 Moonlight Challenge
+title: A week of weeks (or "How I created a monster")
 categories: [running]
-tags: [Moonlight Challenge]
-synopsis: 2011 Moonlight Challenge
+synopsis: A week of weeks (or "How I created a monster")
 ---
 ![A monster](/running/images/2011-03-16-how-i-created-a-monster.jpg)
 
@@ -26,4 +25,4 @@ Other little additions were plenty of stair climbing, weights, ITB stretching an
 
 This week things are far more relaxed. That monster week was a result of feeling great and just wanting to run loads. Which leads me to the most fundamental advice I could possibly give:
 
-Enjoy your running. Do as much as makes you happy and feels like fun.
+### Enjoy your running. Do as much as makes you happy and feels like fun.
