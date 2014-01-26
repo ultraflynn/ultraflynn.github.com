@@ -2,7 +2,7 @@
 layout: post
 title: 2010 Moonlight Challenge
 categories: [running]
-tags: [moonlight challenge]
+tags: [Moonlight Challenge]
 synopsis: 2010 Moonlight Challenge
 ---
 The newspaper who published this (Suffolk Free Press) decided that my 7th place wasn't good enough and promoted me to 5th for some reason. :)
