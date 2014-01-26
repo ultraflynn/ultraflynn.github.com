@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chappel Viaduct at dusk
+categories: [running]
 tags: [Chappel]
 synopsis: Chappel Viaduct at dusk.
 ---
