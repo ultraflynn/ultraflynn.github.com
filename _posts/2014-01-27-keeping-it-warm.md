@@ -22,6 +22,6 @@ To aid this just make sure that the liquid in the bladder is warm to start with.
 
 I also don't like to empty the bladder and have to fully re-fill it with cold liquid. A good way to avoid this is to carry an empty 500ml bottle which you use to collect water and perhaps add electrolyte to. Then you're just adding 500ml of cold liquid to the warm you already have. It'll soon warm up. That also makes it easy to mix electrolytes up which is tricky when using a bladder.
 
-Having the right equipment helps here and I can recommend two different versions of the same backpack which both work very well. They are the OMM Classic Marathon 25l and 32l. Any backpack will do though, as long as it allows the contents of the bag to touch your back. Bags with an air insulation layer to stop you sweating probably wont work.
+Having the right equipment helps here and I can recommend two different versions of the same backpack which both work very well. They are the OMM Classic Marathon 25 litre and 32 litre. Any backpack will do though, as long as it allows the contents of the bag to touch your back. Bags with an air insulation layer to stop you sweating probably wont work.
 
 Plan for the cold and it makes the whole experience far better. You can concentrate of racing rather than just trying to keep alive.
