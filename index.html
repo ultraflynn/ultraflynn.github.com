@@ -30,13 +30,6 @@ title: ultraflynn
     {% endfor %}
   </div>
   <div class="col-xs-4">
-    <h4>Tag Cloud <small><a href="/tags/">see them all</a></small></h4>
-    <p>
-      {% for tag in site.tags %}
-        <a href="/tags/#{{ tag[0] }}"><span class="badge" style="margin-top:2px;font-size: {{ tag[1] | size | minus:1 | times:4 | plus:12 }}px;line-height:{{ tag[1] | size | minus:1 | times:4 | times:14 | divided_by:12 | plus:14 }}px">{{ tag[0] }}<span class="tag-count" style="font-size: {{ tag[1] | size | minus:1 | times:4 | plus:12 | times:0.6  }}px;"> {{ tag[1] | size }}</span></span></a><span> </span>
-      {% endfor %}
-    </p>
-    <br/>
     <h4>Latest Posts <small><a href="/archive/">see them all</a></small></h4>
     <p>
       {% for post in site.posts limit:10 %}
@@ -55,6 +48,13 @@ title: ultraflynn
           <div>{{ post.title }}</div>
         </a>
       </div>
+      {% endfor %}
+    </p>
+    <br/>
+    <h4>Tag Cloud <small><a href="/tags/">see them all</a></small></h4>
+    <p>
+      {% for tag in site.tags %}
+        <a href="/tags/#{{ tag[0] }}"><span class="badge" style="margin-top:2px;font-size: {{ tag[1] | size | minus:1 | times:4 | plus:12 }}px;line-height:{{ tag[1] | size | minus:1 | times:4 | times:14 | divided_by:12 | plus:14 }}px">{{ tag[0] }}<span class="tag-count" style="font-size: {{ tag[1] | size | minus:1 | times:4 | plus:12 | times:0.6  }}px;"> {{ tag[1] | size }}</span></span></a><span> </span>
       {% endfor %}
     </p>
   </div>
