@@ -12,9 +12,13 @@
     <link href="/font-awesome-4.0.3/css/font-awesome.min.css" rel="stylesheet">
   </head>
   <body>
-    <div class="container">
+    <div>
       {% include header.html %}
+    </div>
+    <div class="container">
       {{ content }}
+    </div>
+    <div>
       {% include footer.html %}
     </div>
     <script src="/js/jquery-2.0.3.min.js"></script>

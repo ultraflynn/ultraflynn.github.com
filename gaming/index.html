@@ -4,13 +4,7 @@ title:  ultraflynn | Gaming
 ---
 
 {% for post in site.categories.gaming %}
-  <div class="table-responsive">
-    <table class="table">
-      <tr>
-        <td>
-          {% include summary.html %}
-        </td>
-      </tr>
-    </table>
+  <div class="col-xs-6 well">
+    {% include summary.html %}
   </div>
 {% endfor %}
