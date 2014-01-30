@@ -34,7 +34,6 @@ title: ultraflynn
     <p>
       {% for post in site.posts limit:10 %}
       <div>
-        <small>{{ post.date | date_to_string }}</small>
         {% for category in post.categories %}
           {% if category == 'pc' %}
             <span class="label label-primary"><i class="fa fa-wrench"></i></span>
@@ -44,9 +43,8 @@ title: ultraflynn
             <span class="label label-success"><i class="fa fa-trophy"></i></span>
           {% endif %}
         {% endfor %}
-        <a href="{{ post.url }}" title="{{ post.title }}"> 
-          <div>{{ post.title }}</div>
-        </a>
+        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        <small>{{ post.date | date_to_string }}</small>
       </div>
       {% endfor %}
     </p>
