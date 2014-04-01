@@ -5,9 +5,6 @@ categories: [pc]
 tags: [Corsair]
 synopsis: I've been planning on custom modding a PC case for the past month and spent a little time looking at options and hardware when yesterday I get some news that fundamentally changes those plans for the better. Much better. The takeaway message from this tale is that Corsair's after-sales is the best in the industry and everyone should buy their products.
 ---
-Tweet:
-How do Corsair treat their customers? In my experience the answer is very very well. Read  more: LINKY @CorsairMemory #corsairrocks
-
 Sometimes an event turns your expectations and plans on their head. It's like that moment in The Matrix when time slows down and then when you snap back to reality you think "What just happened...?" Yesterday that happened to me.
  
 This is a story with 2 threads and don't seem to converge but when they do they change all my plans for the better.
@@ -41,3 +38,7 @@ So now plans change. Why mess about with a 2007-era case when I can use a brand 
 I've got lots of things to do to make these PCs as good as I want (lighting, sleeving, cable management, watercooling, etc) but the one thing I now won't need to do is buy a Dremel and start hacking around my PC case.
  
 Corsair are awesome. Their products are awesome. After-sales, awesome. Just awesome. Can't rate them highly enough. Mistakes happen but I always judge companies (and people) by how they deal with those mistakes. I honestly cannot fault Corsair. Go buy their products. Do it now.
+
+UPDATE: I actually penned this post a month or so ago as I wanted to wait until the case finally showed up. Corsair assured me that it would be with me by the end of March and they were as good as their word. Check this out:
+
+![Results](/pc/images/20140401.dual-corsair.jpg)
