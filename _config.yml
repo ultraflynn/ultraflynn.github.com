@@ -1,5 +1,5 @@
 name:        ultraflynn
-markdown:    redcarpet
+markdown:    kramdown
 pygments:    false
 permalink:   pretty
 safe:        true
